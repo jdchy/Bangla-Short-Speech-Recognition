@@ -8,6 +8,7 @@ Install all dependencies by running
 
 ##Audio Short Speech Data Set
                              | এক |	আগেরটা | চাচী | মা |
+                             | ----| ----| ----| ----|
                              | দুই | আসো | চালাও | না | 
                              | তিন | বাবা | ছোট | নিচে | 
                              | চার | বাজাও | দেখাও | নরম | 

@@ -15,10 +15,10 @@ Install all dependencies by running
 | সাত | ভাই | গরম | সামনে | আট | বোন | হ্যা | শক্ত |
 | নয় | বড়ো | জাগো | ঠান্ডা | দশ | চাচা | যাও | শূন্য |
 
-<h1>Time Series</h1>
+<h1 align="center">Time Series Plot</h1>
 <p align="center"> 
     <a href="https://github.com/jdchy/Bangla-Short-Speech-Recognition" target="time_series">
-        <img alt='Plot of Time Series' src='imgs/Time_series.png' width="600" height="400"/>
+        <img alt='Plot of Time Series' src='imgs/Time_series.png' />
     </a>
     <br>
 </p>

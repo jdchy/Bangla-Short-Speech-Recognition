@@ -22,3 +22,27 @@ Install all dependencies by running
     </a>
     <br>
 </p>
+
+<h1 align="center">Fourier Transforms Plot</h1>
+<p align="center"> 
+    <a href="https://github.com/jdchy/Bangla-Short-Speech-Recognition" target="Fourier_transforms">
+        <img alt='Plot of Fourier Transforms' src='imgs/Fourier_transforms.png' />
+    </a>
+    <br>
+</p>
+
+<h1 align="center">Filter Bank Coefficients Plot</h1>
+<p align="center"> 
+    <a href="https://github.com/jdchy/Bangla-Short-Speech-Recognition" target="Filter_bank_coefficients">
+        <img alt='Plot of Filter Bank Coefficients' src='imgs/Filter_bank_coefficients.png' />
+    </a>
+    <br>
+</p>
+
+<h1 align="center">Mel Frequency Cepstrum Coefficients Plot</h1>
+<p align="center"> 
+    <a href="https://github.com/jdchy/Bangla-Short-Speech-Recognition" target="mfcc">
+        <img alt='Plot of Mel Frequency Cepstrum Coefficients' src='imgs/mfcc.png' />
+    </a>
+    <br>
+</p>

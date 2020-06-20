@@ -1,9 +1,9 @@
 # Bangla-Short-Speech-Recognition
 
 ## Installation
-Install all dependencies by running
+Install all dependencies
 ```python
-      $ pip install -r requirements.txt
+   $ pip install -r requirements.txt
 ```
 
 ## Audio Short Speech Data Set

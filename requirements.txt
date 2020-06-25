@@ -33,5 +33,5 @@ tensorboard==1.15.0
 tensorflow-cpu==1.15.0
 termcolor==1.1.0
 tqdm==4.31.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wincertstore==0.2
